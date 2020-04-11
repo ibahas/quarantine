@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-5441 -8.765 106 45.765">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #393b3f;
+      }
+
+      .cls-2 {
+        stroke: #f3d70d;
+      }
+    </style>
+  </defs>
+  <g id="Truck" transform="translate(-5440 -7.765)">
+    <path id="Shape" class="cls-1" d="M2.108,0a2.118,2.118,0,0,0,0,4.235h7.73A8.5,8.5,0,0,1,10.976,0Z" transform="translate(0 31.059)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M0,0A8.5,8.5,0,0,1,1.138,4.235H36.274A8.5,8.5,0,0,1,37.412,0Z" transform="translate(42.429 31.059)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M7.463,0H0A8.5,8.5,0,0,1,1.138,4.235H7.463A2.118,2.118,0,0,0,7.463,0Z" transform="translate(94.429 31.059)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M0,31.059V0H15.361a2.807,2.807,0,0,1,2.333,1.256l7.168,11.449a2.833,2.833,0,0,1,.436,1.525V31.059" transform="translate(75.892)"/>
+    <ellipse id="Oval" class="cls-1" cx="8.432" cy="8.471" rx="8.432" ry="8.471" transform="translate(9.838 26.824)"/>
+    <ellipse id="Oval-2" data-name="Oval" class="cls-2" cx="2.811" cy="2.824" rx="2.811" ry="2.824" transform="translate(15.459 32.471)"/>
+    <ellipse id="Oval-3" data-name="Oval" class="cls-1" cx="8.432" cy="8.471" rx="8.432" ry="8.471" transform="translate(26.703 26.824)"/>
+    <ellipse id="Oval-4" data-name="Oval" class="cls-2" cx="2.811" cy="2.824" rx="2.811" ry="2.824" transform="translate(32.324 32.471)"/>
+    <ellipse id="Oval-5" data-name="Oval" class="cls-1" cx="8.432" cy="8.471" rx="8.432" ry="8.471" transform="translate(78.703 26.824)"/>
+    <ellipse id="Oval-6" data-name="Oval" class="cls-2" cx="2.811" cy="2.824" rx="2.811" ry="2.824" transform="translate(84.324 32.471)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M14.054,9.882H0V0H8.432l5.622,9.882Z" transform="translate(81.514 5.647)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M0,0V2.118" transform="translate(81.514 20.118)"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+﻿.tp-caption h1
+{
+    font-size: 120px;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+.tp-caption h5 {
+    font-size: 26px;
+    color: #FFF;
+    font-weight: 400;
+    /*text-transform: uppercase;*/
+}
+
+.footer-2 p a {
+    color: #FFF;
+}
+.footer-2 p a:hover {
+    color: #0094ff;
+}
+
+.rev_slider .slotholder:after {
+    width: 100%;
+    height: 100%;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    /* black overlay with 50% transparency */
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.flickr-feed img {
+    width: 85px;
+    height: 85px;
+}

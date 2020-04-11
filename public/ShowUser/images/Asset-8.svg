@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4671.841 -23.009 126.054 64.116">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke: #393b3f;
+      }
+
+      .cls-2 {
+        stroke: #f3d70d;
+      }
+    </style>
+  </defs>
+  <g id="Asset_8" data-name="Asset 8" transform="translate(-4671 -22)">
+    <path id="Shape" class="cls-1" d="M31.5,26.25H0V1.313A1.313,1.313,0,0,1,1.313,0h17.9a2.625,2.625,0,0,1,2.441,1.614Z" transform="translate(42.522 7.573)"/>
+    <path id="Shape-2" data-name="Shape" class="cls-1" d="M16.419,11.826H0V0H11.813l4.607,11.826Z" transform="translate(47.759 12.797)"/>
+    <path id="Shape-3" data-name="Shape" class="cls-1" d="M0,0H2.625" transform="translate(47.759 28.56)"/>
+    <path id="Shape-4" data-name="Shape" class="cls-1" d="M16.19,26.082,11.675,29.4.453,4.676A3.058,3.058,0,0,1,1.345.541h0a3.045,3.045,0,0,1,4.436,1.1Z" transform="translate(95.593 21.981)"/>
+    <path id="Shape-5" data-name="Shape" class="cls-1" d="M4.1,15.015,22.82,4.738,20.038,0,1.44,10.172a2.769,2.769,0,0,0-1.181,3.6h0A2.769,2.769,0,0,0,4.1,15.015Z" transform="translate(76.008 26.657)"/>
+    <path id="Shape-6" data-name="Shape" class="cls-1" d="M1.674,4.935,8.328,0,19.353,15.068H6.11a5.25,5.25,0,0,1-4.62-2.874L.453,10.119A4.108,4.108,0,0,1,1.674,4.935Z" transform="translate(104.859 47.04)"/>
+    <path id="Shape-7" data-name="Shape" class="cls-1" d="M58.958,10.513H18.506V0H7.626L0,10.5V25.9" transform="translate(23.99 23.31)"/>
+    <path id="Shape-8" data-name="Shape" class="cls-1" d="M5.25,10.592,0,0" transform="translate(85.677 38.614)"/>
+    <path id="Shape-9" data-name="Shape" class="cls-1" d="M10.2,0H0A7.875,7.875,0,0,1,1.063,3.938H8.282A1.969,1.969,0,0,0,10.2,1.982Z" transform="translate(80.677 49.206)"/>
+    <path id="Shape-10" data-name="Shape" class="cls-1" d="M0,0A11.3,11.3,0,0,1,.276,3.938H18.7A7.875,7.875,0,0,1,19.766,0Z" transform="translate(47.234 49.206)"/>
+    <circle id="Oval" class="cls-1" cx="9.188" cy="9.188" r="9.188" transform="translate(29.24 42.643)"/>
+    <circle id="Oval-2" data-name="Oval" class="cls-2" cx="3.058" cy="3.058" r="3.058" transform="translate(35.369 48.772)"/>
+    <circle id="Oval-3" data-name="Oval" class="cls-1" cx="7.875" cy="7.875" r="7.875" transform="translate(65.99 45.268)"/>
+    <circle id="Oval-4" data-name="Oval" class="cls-2" cx="2.625" cy="2.625" r="2.625" transform="translate(71.24 50.518)"/>
+    <path id="Shape-11" data-name="Shape" class="cls-1" d="M0,0V1.982A1.969,1.969,0,0,0,1.969,3.951H5.342A8.505,8.505,0,0,1,5.631.013Z" transform="translate(23.938 49.206)"/>
+    <path id="Shape-12" data-name="Shape" class="cls-1" d="M18.506.013,0,0" transform="translate(23.99 33.81)"/>
+    <path id="Shape-13" data-name="Shape" class="cls-1" d="M16,18.69,3.032,0,0,5.093l9.686,13.6" transform="translate(21.929 4.62)"/>
+    <path id="Shape-14" data-name="Shape" class="cls-1" d="M0,30.749l3.938,2.192L20.843,4.617A3.032,3.032,0,0,0,19.9.5h0a3.058,3.058,0,0,0-4.384,1.155Z" transform="translate(4.119 0.003)"/>
+    <path id="Shape-15" data-name="Shape" class="cls-1" d="M1.321,10.592l1.536,1.221a4.449,4.449,0,0,0,4.567.551L17.674,7.77,3.814,0,.441,6.169A3.478,3.478,0,0,0,1.321,10.592Z" transform="translate(0.304 30.752)"/>
+  </g>
+</svg>
